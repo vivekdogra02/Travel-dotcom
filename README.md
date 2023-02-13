@@ -1,5 +1,6 @@
 # Travel-dotcom
-A CRUD Travel site using ReactJS, Refine, Material UI, Google Cloud Console, MongoDB, API Web service(Render)
+A CRUD Travel site using ReactJS, Refine.dev(https://refine.dev/), Material UI, Google Cloud Console(For Authentication), MongoDB Atlas, 
+Render(Backend Node Express API deployed - https://render.com/), Netlify(Frontend deployed)
 
 ### Dashboard
 
